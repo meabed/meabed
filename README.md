@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Meabed</h1>
-<h3 align="center">Innovative CTO • Technology Entrepreneur • Product Builder</h3>
+<h3 align="center">Innovative CTO • Software Engineer • Product Builder</h3>
 
 <p align="center"> <a href="https://twitter.com/meabed" target="blank"><img src="https://img.shields.io/twitter/follow/meabed?logo=twitter&style=for-the-badge" alt="meabed" /></a> </p>
 
