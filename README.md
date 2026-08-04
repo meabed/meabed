@@ -45,7 +45,7 @@ Previously scaled large engineering orgs and platforms (travel tech, e-commerce,
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Some GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-one-gamma.vercel.app/api?username=meabed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=0EA5E9&text_color=E5E7EB" />
@@ -63,7 +63,7 @@ Previously scaled large engineering orgs and platforms (travel tech, e-commerce,
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contributions
 
 <!-- After setting up the GitHub Action (see note below), this will become animated -->
 <div align="center">
@@ -76,7 +76,7 @@ Previously scaled large engineering orgs and platforms (travel tech, e-commerce,
 
 ---
 
-### 🔭 Currently focused on
+### 🔭 I am Currently focused on
 
 - AI Agents & multi-agent systems
 - Platform modernization & high-leverage engineering
@@ -85,7 +85,7 @@ Previously scaled large engineering orgs and platforms (travel tech, e-commerce,
 
 ---
 
-### 🔗 Connect
+### 🔗 Let's Connect
 
 <p align="center">
   <a href="https://x.com/meabed"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
