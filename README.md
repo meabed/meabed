@@ -48,8 +48,8 @@ Previously scaled large engineering orgs and platforms (travel tech, e-commerce,
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meabed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=0EA5E9&text_color=E5E7EB" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meabed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB" />
+  <img height="165" src="https://github-readme-stats-one-gamma.vercel.app/api?username=meabed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=0EA5E9&text_color=E5E7EB" />
+  <img height="165" src="https://github-readme-stats-one-gamma.vercel.app/api/top-langs/?username=meabed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB" />
 </div>
 
 <br/>
@@ -61,7 +61,7 @@ Previously scaled large engineering orgs and platforms (travel tech, e-commerce,
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meabed&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=meabed&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 </div>
 
 ---
