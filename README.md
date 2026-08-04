@@ -76,7 +76,7 @@ Previously scaled large engineering orgs and platforms (travel tech, e-commerce,
 
 ---
 
-### 🔭 I am Currently focused on
+### 🔭 I am currently focused on
 
 - AI Agents & multi-agent systems
 - Platform modernization & high-leverage engineering
@@ -85,7 +85,7 @@ Previously scaled large engineering orgs and platforms (travel tech, e-commerce,
 
 ---
 
-### 🔗 Let's Connect
+### 🔗 Let's connect
 
 <p align="center">
   <a href="https://x.com/meabed"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
