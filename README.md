@@ -12,8 +12,8 @@
 
 ### 👋 About
 
-I'm **Mohamed Meabed** — CTO and hands-on engineering leader based in Toronto.  
-I build and scale complex systems, AI platforms, and high-performance teams.
+I'm **Mohamed Meabed** - a Hands-on CTO and AI software engineer based in Toronto.  
+I build and scale complex systems, AI platforms, and high performance teams.
 
 Currently building **HELP.AI** with deep focus on:
 
