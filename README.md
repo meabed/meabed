@@ -15,10 +15,10 @@
 I am a hands on CTO and AI software engineer based in Toronto.  
 I build and scale complex systems, AI platforms, and high performance teams.
 
-Currently building **HELP.AI** with deep focus on:
+Currently building AI Platforms with deep focus on:
 
 - AI Agents, RAG systems & GenAI platforms
-- Modern TypeScript / Node services & GraphQL
+- Modern TypeScript / Node / Bun / Cloud / Rest APIs & GraphQL
 - Computer Vision & ML infrastructure
 - Platform engineering, Kubernetes & self-hosted stacks
 
