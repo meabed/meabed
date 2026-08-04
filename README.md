@@ -10,9 +10,9 @@
 
 <br/>
 
-### 👋 About
+### 👋 Hey I am Mo ( Mohamed Meabed ).
 
-I'm **Mohamed Meabed** - a hands on CTO and AI software engineer based in Toronto.  
+I am a hands on CTO and AI software engineer based in Toronto.  
 I build and scale complex systems, AI platforms, and high performance teams.
 
 Currently building **HELP.AI** with deep focus on:
