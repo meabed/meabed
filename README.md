@@ -60,9 +60,6 @@ Previously scaled large engineering orgs and platforms (travel tech, e-commerce,
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meabed&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
-</div>
 
 ---
 
@@ -76,9 +73,6 @@ Previously scaled large engineering orgs and platforms (travel tech, e-commerce,
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/meabed/meabed/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-> **Setup note**: Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to auto-generate the snake daily.  
-> Once the `output` branch exists, the animation will appear here.
 
 ---
 
